@@ -3,6 +3,6 @@ console.log('babak bekhrad.ir');
 function myfunction()
 
 {
-	alert('hello world');
+	alert('hello world cliksite');
 }
 
