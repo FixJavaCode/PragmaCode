@@ -3,6 +3,6 @@ console.log('babak bekhrad.ir');
 function myfunction()
 
 {
-	alert('hamkar');
+	alert('hamkar helet chetore');
 }
 
