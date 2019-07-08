@@ -6,17 +6,6 @@
   border: 2px solid #aaa;
 
 }
-
-#main .red-squre
-{
-  width: 300px;
-  height: 300px;
-  display:inline-block;
-  margin-left:350px;
-  margin-top: 150px;
-  background-color: #f74444;
-
-}
 #main .yellow-squre
 {
   width: 200px;
